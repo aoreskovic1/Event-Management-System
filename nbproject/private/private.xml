@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/andrija/NetBeansProjects/Project1/app/view/Venues/single.php</file>
+            <file>file:/Users/andrija/NetBeansProjects/Project1/app/view/Sessions/registrations.php</file>
+            <file>file:/Users/andrija/NetBeansProjects/Project1/app/view/Events/index.php</file>
+            <file>file:/Users/andrija/NetBeansProjects/Project1/public/css/style3.css</file>
+            <file>file:/Users/andrija/NetBeansProjects/Project1/app/model/ModelSessionUser.php</file>
+            <file>file:/Users/andrija/NetBeansProjects/Project1/app/helpers/Route.php</file>
+            <file>file:/Users/andrija/NetBeansProjects/Project1/public/css/venue.css</file>
+            <file>file:/Users/andrija/NetBeansProjects/Project1/app/view/Sessions/update.php</file>
+            <file>file:/Users/andrija/NetBeansProjects/Project1/app/view/header.php</file>
+            <file>file:/Users/andrija/NetBeansProjects/Project1/app/view/Venues/index.php</file>
+            <file>file:/Users/andrija/NetBeansProjects/Project1/app/model/BaseModel.php</file>
+            <file>file:/Users/andrija/NetBeansProjects/Project1/public/css/style2.css</file>
+            <file>file:/Users/andrija/NetBeansProjects/Project1/app/model/ModelSession.php</file>
+            <file>file:/Users/andrija/NetBeansProjects/Project1/app/controller/RegistrationController.php</file>
+            <file>file:/Users/andrija/NetBeansProjects/Project1/app/view/Sessions/index.php</file>
+            <file>file:/Users/andrija/NetBeansProjects/Project1/app/view/auth/unauthorized.php</file>
+            <file>file:/Users/andrija/NetBeansProjects/Project1/public/css/style.css</file>
+            <file>file:/Users/andrija/NetBeansProjects/Project1/app/view/User/index.php</file>
+            <file>file:/Users/andrija/NetBeansProjects/Project1/app/view/auth/login.php</file>
+            <file>file:/Users/andrija/NetBeansProjects/Project1/app/model/ModelAttendee.php</file>
+            <file>file:/Users/andrija/NetBeansProjects/Project1/app/view/Sessions/single.php</file>
+            <file>file:/Users/andrija/NetBeansProjects/Project1/app/model/ModelVenue.php</file>
+            <file>file:/Users/andrija/NetBeansProjects/Project1/app/view/auth/register.php</file>
+            <file>file:/Users/andrija/NetBeansProjects/Project1/index.php</file>
+            <file>file:/Users/andrija/NetBeansProjects/Project1/app/model/ModelEvent.php</file>
+            <file>file:/Users/andrija/NetBeansProjects/Project1/public/css/reg.css</file>
+            <file>file:/Users/andrija/NetBeansProjects/Project1/public/css/test.css</file>
+            <file>file:/Users/andrija/NetBeansProjects/Project1/app/view/footer.php</file>
+            <file>file:/Users/andrija/NetBeansProjects/Project1/public/css/session.css</file>
+            <file>file:/Users/andrija/NetBeansProjects/Project1/app/view/Events/update.php</file>
+            <file>file:/Users/andrija/NetBeansProjects/Project1/app/view/User/update.php</file>
+            <file>file:/Users/andrija/NetBeansProjects/Project1/app/controller/AuthController.php</file>
+            <file>file:/Users/andrija/NetBeansProjects/Project1/app/config/config.php</file>
+            <file>file:/Users/andrija/NetBeansProjects/Project1/public/css/events.css</file>
+            <file>file:/Users/andrija/NetBeansProjects/Project1/app/db/DB.php</file>
+            <file>file:/Users/andrija/NetBeansProjects/Project1/app/view/Venues/update.php</file>
+            <file>file:/Users/andrija/NetBeansProjects/Project1/app/model/ModelUser.php</file>
+        </group>
+    </open-files>
+</project-private>

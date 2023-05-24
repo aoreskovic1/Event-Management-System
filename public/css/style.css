@@ -1,0 +1,42 @@
+html,body{
+    font-family: 'Lato', sans-serif;
+}
+
+html,body{
+    font-family: 'Lato', sans-serif;
+}
+.nav-item{
+    margin:10px;
+}
+logout{
+    position: relative;
+    right: 100;
+}
+.logout-btn{
+    position: absolute;
+    right: 50;
+    margin: 10px;
+}
+
+#k2{
+    position: absolute;
+    right: 150;
+    margin: 10px;
+    font-size: 23;
+    padding-top: 3;
+}
+
+
+/* Change styles for span and cancel button on extra small screens */
+@media screen and (max-width: 300px) {
+    span.psw {
+        display: block;
+        float: none;
+    }
+    .cancelbtn {
+        width: 100%;
+    }
+}
+
+
+
